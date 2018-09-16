@@ -1,5 +1,7 @@
 # 2048-docker
 
+![2048](/2048.png?raw=true "2048")
+
 ```
 git clone https://github.com/eMahtab/2048-docker
 
